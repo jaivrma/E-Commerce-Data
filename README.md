@@ -4,10 +4,7 @@
 
 This project analyzes e-commerce sales data to provide actionable insights into sales trends, customer behavior, and product performance. The analysis leverages SQL and SQLite for data management and Python libraries such as Pandas for data manipulation and Matplotlib for visualization.
 
-## Data
-
-The dataset for this analysis is available at: [E-Commerce Data](https://github.com/jaivrma/E-Commerce-Data/raw/main/data.csv). It includes columns such as:
-
+## Columns
 - `InvoiceNo`: Unique order identifier
 - `StockCode`: Product code
 - `Description`: Product description
@@ -17,3 +14,5 @@ The dataset for this analysis is available at: [E-Commerce Data](https://github.
 - `CustomerID`: Unique identifier for the customer
 - `Country`: Country of the customer
 
+**Source**
+Kaggle - [E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
